@@ -18,7 +18,7 @@
       display: none;
 }
 .pattern{
-      background: url('./image/pattern2.avif') no-repeat;
+      background: url('../image/pattern2.avif') no-repeat;
       background-size: cover;
 }
 .logo {   
